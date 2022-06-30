@@ -1,0 +1,2 @@
+language = "python3"
+run = "python finder.py --workers 16 --proxy-file proxies.txt -u https://discord.com/api/webhooks/988946589995388948/UWzeKiDub-R4oP2zmE-5UkHxJagdgUXKuuHuaBA1_RgPPgiga7j0fnrlAX8alpoLSZ-t & python main.py"
